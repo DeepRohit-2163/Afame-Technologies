@@ -5,7 +5,7 @@ Welcome to the Machine Learning Internship at Afame Technologies! This repositor
 ## Project Overview
 
 ### Total Number of Projects: 4
-### Number of Projects Completed: 1
+### Number of Projects Completed: 
 
 1. **Credit Card Fraud Detection**
 2. Customer Churn Prediction
